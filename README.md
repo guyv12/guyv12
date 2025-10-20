@@ -3,15 +3,13 @@
 ---
 
 ## About Me
-I'm passionate about low-level programming, computer networks, video games, and security.
+I'm passionate about video games, making my distro look nice, understanding how things work.
 
 ---
 
 ## What I'm Learning:
-- **C / C++** – for high-performance and system programming
-- **Computer Networks** – protocols, architecture, and security
-- **Godot & AI** - for passion projects
-
+- **System programming** - to utilize C skills in unusual projects 
+- **Python / PyTorch** - for AI GPU-based projects
 ---
 
 ## How to Reach Me:
